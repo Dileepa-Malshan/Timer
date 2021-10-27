@@ -1,0 +1,9 @@
+pyrogram
+Tgcrypto
+requests
+motor
+pymongo
+umongo
+dnspython
+psutil
+shutil
