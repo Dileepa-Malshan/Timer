@@ -8,7 +8,7 @@
         "szbot"
     ],
     "website": "http://szbots.ml",
-    "repository": "https://github.com/youtubeslgeekshow/sz-rose-bot",
+    "repository": "https://github.com/Dileepa-Malshan/Timer",
     "success_url": "https://t.me/szteambots",
     "env": {
         "BOT_TOKEN": {
