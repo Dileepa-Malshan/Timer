@@ -34,8 +34,8 @@ async def start(client, message):
     if message.chat.type == "private":
         button = [
     [
-        InlineKeyboardButton(text="Help    Menu",callback_data="help"),
-        InlineKeyboardButton(text="Support Chat", url="http://t.me/slbotzone")
+        InlineKeyboardButton(text="❤️ My Help ❤️",callback_data="help"),
+        InlineKeyboardButton(text="👻 Support 👻", url="http://t.me/slbotzone")
     ],   
     [
         InlineKeyboardButton(text="⏳ Add Me To Your Group ⏳", url=f"http://t.me/{BOT_USERNAME}?startgroup=new"),
@@ -55,7 +55,7 @@ touch on `Help` Button 👨
 User count ; `{total_users}`
 
 ☬─────────────☬
-🤟 ᗪᙓᐯᙓᒪOᑭᙓᖇ :- [supun maduranga](https://t.me/supunmabot)
+🤟 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬 :- [SL Bot Zero](https://t.me/szteambots)
 🦅 Powered By :- `【SZ™】`
 ☬─────────────☬
 
@@ -93,7 +93,7 @@ touch on `Contact Me PM for Help` Button 👨
 User count ; `{total_users}`
 
 ☬─────────────☬
-🤟 ᗪᙓᐯᙓᒪOᑭᙓᖇ :- [supun maduranga](https://t.me/supunmabot)
+🤟 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝗕𝘆 :- [SZ TEAM](https://t.me/szteambots)
 🦅 Powered By :- `【SZ™】`
 ☬─────────────☬
 
@@ -165,7 +165,7 @@ with this permissions
 That's all Finish !!
 
 ☬─────────────☬
-🤟 ᗪᙓᐯᙓᒪOᑭᙓᖇ :- [supun maduranga](https://t.me/supunmabot)
+🤟 ᗪᙓᐯᙓᒪOᑭᙓᖇ :- [SZ Team](https://t.me/supunmabot)
 🦅 Powered By :- `【SZ™】`
 ☬─────────────☬
 
